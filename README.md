@@ -58,9 +58,19 @@ To learn and demonstrate how **supervised learning** works using a small dataset
 
 - Vishesh Jain ([@visheshjainn16](https://github.com/visheshjainn16))
 
----
 
-## 🌟 Star this repo if you liked it!
+## 🚀 How to Run This Project
 
-![image](https://github.com/user-attachments/assets/ee3ec4ff-27ef-4ba2-aa1a-a42c8c0fc792)
+You can run this project directly in your browser using Google Colab. No installations needed!
+
+### 👉 [Click here to open in Google Colab](https://colab.research.google.com/github/visheshjainn16/StudyHours-Score-Prediction/blob/main/StudyHours_ScorePrediction.ipynb)
+
+#### OR
+
+1. Go to [Google Colab](https://colab.research.google.com/)
+2. Click on **File > Open notebook**
+3. Select **GitHub** tab and paste this repo URL:https://github.com/visheshjainn16/StudyHours-Score-Prediction
+4. Click on the notebook file and run the code step by step.
+
+
 
